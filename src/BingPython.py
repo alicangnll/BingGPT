@@ -46,7 +46,7 @@ class BingPython:
     async def ping(websocket):
         while True:
             await websocket.send('{"message":"PING"}')
-            print('--- Connection are under control. Loading... ---')
+            print('--- Connections are under control. Loading... ---')
             await asyncio.sleep(5)
 
     async def sendcom_sydney(loaddata, question):
