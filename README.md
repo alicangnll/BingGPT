@@ -14,4 +14,4 @@ You can use BingGPT AI API on Python!
 <img src="https://raw.githubusercontent.com/alicangnll/BingGPT-Python/main/pic/pic2.png" />
 <h1>Example</h1>
 <a href="https://github.com/alicangnll/BingGPT-Python/blob/main/examples/example.py">Example Code</a>
-<br><a href="https://github.com/alicangnll/BingGPT-Python/blob/main/examples/example2.py">Example Code 2</a>
+<br><a href="https://github.com/alicangnll/BingGPT-Python/blob/main/examples/example_cookie_txt.py">Example Code 2</a>
